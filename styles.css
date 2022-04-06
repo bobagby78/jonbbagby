@@ -17,6 +17,19 @@ body{
     background-repeat: no-repeat;
 }
 
+.screen-shot{
+    max-height: 600px;
+    padding: 25px
+}
+
+.centered{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
 a{
     text-decoration: none;
     color: lightgray;
