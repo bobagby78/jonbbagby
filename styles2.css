@@ -198,6 +198,8 @@ footer{
 
 .center-section{
     text-align: center;
+    position: relative;
+    left: 33%;
 }
 
 .viz-table {
