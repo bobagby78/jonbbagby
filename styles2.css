@@ -1,16 +1,15 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
     font-size: 15px;
     line-height: 1.5;
     color:lightgrey;
     min-width: 800px;
     max-width: 1600px;  
-    background-color: gray;      
-    min-height: 80%;
+    background-color: rgb(61, 79, 167);      
 }
 
 #back-button{
-    background-color: rgb(39, 129, 79);
+    background-color: rgb(2, 0, 117);
     color: lightgray;
     min-width: 70px;
     min-height: 35px;
@@ -26,7 +25,7 @@ body{
 }
 
 #grad{
-    background-image: linear-gradient(to bottom right,#c0ad8c, gray );
+    background-image: linear-gradient(to bottom right,#8ca0c0, rgb(134, 130, 218) );
     background-repeat: no-repeat;
 }
 
@@ -85,10 +84,10 @@ a{
 
 /* HEADER */
 header{
-    background-color: rgb(48, 63, 51);
+    background-color: rgb(0, 8, 156);
     padding: 0;
     min-height: 120px;
-    border-bottom: #875d48 7px solid;
+    border-bottom: #0d0055 7px solid;
 }
 
 #name-plate{
@@ -112,11 +111,11 @@ header{
 }
 
 .navigation :hover{
-    color:rgb(126, 211, 143)
+    color: blueviolet;
 }
 
 .current{
-    color: rgb(119, 226, 43);
+    color: rgb(126, 180, 211) ;
     /* font-size: 24px; */
     font-weight: bolder;
 }
@@ -126,8 +125,8 @@ header{
 footer{
     text-align: center;
     margin-top: 250px;
-    background-color: gray;
-    max-height: 50px;
+    background-color: rgb(174, 171, 241);
+    min-height: 50px;
 }
 
 
@@ -146,7 +145,7 @@ footer{
     border-style: solid;
     border-radius: 10px;
     border-width: 5px;
-    border-color: darkolivegreen;
+    border-color: rgb(51, 47, 107);
 }
 
 
@@ -158,17 +157,21 @@ footer{
 #main-info{
     width: 50%;
     float: right;
-    color: rgb(48, 63, 51)
+    color: rgb(48, 59, 63);
 }
 
 #main-info a{
-    color: rgb(62, 128, 62)    
+    color: rgb(26, 49, 103);    
+}
+
+#main-info a :hover{
+    color: aliceblue;    
 }
 
 #main-info p::first-line{
     font-size: 20px;
     font-weight: bold;
-    color:rgb(82, 149, 96)
+    color:rgb(82, 110, 149)
 }
 
 #intent-statement{
@@ -199,7 +202,17 @@ footer{
 
 .viz-table {
     width: 50%;
-    border: black 2px solid
+    border: #0d0055 2px solid
+}
+
+.viz-table-header{
+    background-image: linear-gradient(to bottom , rgb(0, 8, 156), #0d0055 ) ;
+    color: aliceblue;
+    font-weight: bolder;
+}
+
+table p{
+    padding: 15px;
 }
 
 .skills-column p{
