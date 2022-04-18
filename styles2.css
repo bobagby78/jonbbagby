@@ -8,18 +8,6 @@ body{
     background-color: rgb(61, 79, 167);      
 }
 
-#back-button{
-    background-color: rgb(2, 0, 117);
-    color: lightgray;
-    min-width: 70px;
-    min-height: 35px;
-    text-align: center;
-    border-radius: 5px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .visualize{
     border: black 5px dashed;
 }
@@ -27,6 +15,7 @@ body{
 #grad{
     background-image: linear-gradient(to bottom right,#8ca0c0, rgb(134, 130, 218) );
     background-repeat: no-repeat;
+    height: 100%;
 }
 
 #landing-bg{
@@ -240,4 +229,16 @@ img:hover{
     margin-left: auto;
     margin-right: auto;
 
+}
+
+#back-button{
+    background-color: rgb(2, 0, 117);
+    color: lightgray;
+    min-width: 70px;
+    min-height: 35px;
+    text-align: center;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
