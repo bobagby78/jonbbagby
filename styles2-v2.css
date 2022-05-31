@@ -1,0 +1,246 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+    font-size: 15px;
+    line-height: 1.5;
+    color:lightgrey;
+    min-width: 800px;
+    max-width: 1600px;  
+    background-color: rgb(61, 79, 167);      
+}
+
+.visualize{
+    border: black 5px dashed;
+}
+
+#grad{
+    background-image: linear-gradient(to bottom right,#8ca0c0, rgb(134, 130, 218) );
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#landing-bg{
+    background-image: url(/jonbbagby/images/computer.jpg);
+    opacity: 0.75;
+
+}
+.screen-shot{
+    max-height: 400px;
+    max-width: 400px;
+    padding: 25px
+}
+
+.centered{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: lightgray;
+    font-size: 16px;
+}
+
+.plain{
+    list-style: none;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+    width: 80%;
+    overflow: hidden;
+}
+
+.icon{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    
+}
+
+.small-icon{
+    height: 75px;
+    border-radius: 10px;
+}
+
+.collapse{
+    visibility: collapse;
+}
+
+/* HEADER */
+header{
+    background-color: rgb(0, 8, 156);
+    padding: 0;
+    min-height: 120px;
+    border-bottom: #0d0055 7px solid;
+}
+
+#name-plate{
+    float: left;
+}
+
+
+.navigation{
+    margin-left: 50%;
+    padding-top: 10px;
+    /* display: inline; */
+}
+.navigation li{
+    display: inline;
+    margin: 10px
+}
+
+.navigation ul{
+    list-style-type: none;
+    
+}
+
+.navigation :hover{
+    color: blueviolet;
+}
+
+.current{
+    color: rgb(126, 180, 211) ;
+    /* font-size: 24px; */
+    font-weight: bolder;
+}
+
+
+/* FOOTER */
+footer{
+    text-align: center;
+    margin-top: 250px;
+    background-color: rgb(174, 171, 241);
+    min-height: 50px;
+}
+
+
+/*  INDEX MAIN */
+.main{
+    padding: 20px 0 20px 0 ;
+    /* background-color: #c0ad8c; */
+    min-height: 400px;
+    /* border-bottom: #c0ad8c 7px solid; */
+    
+}
+
+#headshot{
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(51, 47, 107);
+}
+
+
+#main-image{
+    width:100%;
+    /* float: left; */
+}
+
+#main-info{
+    width: 100%;
+    /* float: right; */
+    color: rgb(48, 59, 63);
+    font-size: large;
+}
+
+#main-info a{
+    color: rgb(26, 49, 103);    
+}
+
+#main-info a :hover{
+    color: aliceblue;    
+}
+
+#main-info p::first-line{
+    font-size: 25px;
+    font-weight: bold;
+    color:rgb(82, 110, 149)
+}
+
+#intent-statement{
+    width: 400px;
+}
+
+.row{
+    display: inline-flex;
+    width: 75%;
+    margin: 0 50px 0 50px;
+    padding: 10px;
+    justify-content: center;
+    
+}
+
+.col{
+    color: rgb(0, 41, 0);
+    width: 30%;
+    display: inline-flex;
+    margin-left: 50px;
+}
+
+/* SKILLS */
+
+.center-section{
+    text-align: center;
+    position: relative;
+    left: 33%;
+}
+
+.viz-table {
+    width: 50%;
+    border: #0d0055 2px solid
+}
+
+.viz-table-header{
+    background-image: linear-gradient(to bottom , rgb(0, 8, 156), #0d0055 ) ;
+    color: aliceblue;
+    font-weight: bolder;
+}
+
+table p{
+    padding: 15px;
+}
+
+.skills-column p{
+    padding-bottom: 10px;
+}
+/* .project-table > td{
+    width: 50%;
+    border: black 2px solid
+} */
+
+/* Sample images */
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img:hover{
+    max-width: 1200px;
+    max-height: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#back-button{
+    background-color: rgb(2, 0, 117);
+    color: lightgray;
+    min-width: 70px;
+    min-height: 35px;
+    text-align: center;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
