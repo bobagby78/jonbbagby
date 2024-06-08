@@ -9,6 +9,10 @@ body{
     min-height: 80%;
 }
 
+div{
+    border:3px solid chartreuse;
+}
+
 #back-button{
     background-color: rgb(39, 129, 79);
     color: lightgray;
@@ -35,6 +39,29 @@ body{
     opacity: 0.75;
 
 }
+
+.inline{
+    display: inline-block !important;
+}
+
+.center {
+    display: flex;
+    margin: auto;
+    width: 50%;
+    border: 3px solid chart;
+    padding: 10px;
+}
+
+.big-n-bold{
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.med-n-bold{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
 .screen-shot{
     max-height: 400px;
     max-width: 400px;
