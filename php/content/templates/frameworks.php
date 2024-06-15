@@ -6,11 +6,11 @@
             <section class='center-section'>
                 <h3>Frameworks</h3>
 
-                <img class='small-icon' src='/images/skills/spring.png' alt='Spring-boot icon'>
+                <img class='small-icon' src='../../images/skills/spring.png' alt='Spring-boot icon'>
                 <h4>Spring-boot</h4>
                 <p>Experience level: Experienced</p>
 
-                <img class='small-icon' src='/images/skills/thymeleaf.png' alt='thymeleaf icon'>
+                <img class='small-icon' src='../../images/skills/thymeleaf.png' alt='thymeleaf icon'>
                 <h4>Thymeleaf</h4>
                 <p>Experience level: Experienced</p>
 

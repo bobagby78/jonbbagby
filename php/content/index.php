@@ -25,7 +25,7 @@
         </div>
         <div class="row col-md-12 col-lg-10 offset-lg-1 pretty-box">
             <div class="col-6 left image">
-                <img id="headshot" src="../../images/image1.jpg" alt="Jon Bagby and wife">
+                <img id="headshot" src="../../images/image1.jpg" alt="Jon Bagby headshot">
             </div>
             <div class="col-6 words">
                 <div id="tab-header" class="vertical col-12">
