@@ -1,6 +1,6 @@
     <h4 class="panel-header">Other Skills</h4>
 
-    <div class='center-section'>
+    <div class=>
         <img class='small-icon' src='../../images/skills/github.png' alt='Github icon'>
         <h4>Github</h4>
         <p>Experience level: Experience</p>
