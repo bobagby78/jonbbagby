@@ -6,7 +6,7 @@
             <td style="font-size: small"> removed for my sanity </td>
         </tr>
         <tr>
-            <td><img class="contact-icon" src="../../images/conact/gmail.png" alt="email"></td>
+            <td><img class="contact-icon" src="../../images/contact/gmail.png" alt="email"></td>
             <td><a href="mailto:bobagby78@gmail.com" target="new">bobagby78@gmail.com</a></td>
         </tr>
         <tr>
