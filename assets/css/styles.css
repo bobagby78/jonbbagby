@@ -167,7 +167,7 @@ footer{
 }
 /* content */
 .tab-btn {
-    background: aliceblue;
+    background-color: aliceblue !important;
 }
 
 #headshot, .words {
@@ -181,7 +181,6 @@ footer{
     max-width: 100%;
     margin-left: auto;
     border-radius: 10px;
-    border-width: 5px;
 }
 
 #main-image{

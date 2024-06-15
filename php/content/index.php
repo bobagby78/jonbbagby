@@ -18,16 +18,16 @@
 <body>
     <div class="container my-4">
         <div class="header col-12">
-            <div class="header-content col-6 offset-3">
+            <div class="header-content col-12 col-lg-6 offset-lg-3 col-md-8 offset-md-2">
                 <p class="center h1" style="margin-left: auto">Jon B Bagby</p>
                 <p class="center med-n-bold"> Full Stack Web Developer</p>
             </div>
         </div>
-        <div class="row col-md-12 col-lg-10 offset-lg-1 pretty-box">
-            <div class="col-6 left image">
+        <div class="row col-md-12 col-lg-8 offset-lg-2 pretty-box">
+            <div class="col-12 col-md-6 left image">
                 <img id="headshot" src="../../images/image1.jpg" alt="Jon Bagby headshot">
             </div>
-            <div class="col-6 words">
+            <div class="col-12 col-md-6 words">
                 <div id="tab-header" class="vertical col-12">
                     <span data-name="other" class="tab-btn other btn"> Other </span>
                     <span data-name="frameworks" class="tab-btn frameworks btn"> Frameworks </span>
