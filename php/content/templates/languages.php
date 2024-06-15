@@ -8,7 +8,7 @@
             <h4>HTML 5</h4>
             <p>Experience level: Experienced</p>
 
-            <img class='small-icon' src='../images/skills/css.png' alt='css icon'>
+            <img class='small-icon' src='../../images/skills/css.png' alt='css icon'>
             <h4>CSS 3</h4>
             <p>Experience level: Experienced</p>
 
