@@ -1,4 +1,3 @@
-<div class='row container'>
     <h4 class="panel-header">Languages</h4>
 
     <div class='col skills-column'>
@@ -34,5 +33,3 @@
 
         </section>
     </div>
-
-</div>;

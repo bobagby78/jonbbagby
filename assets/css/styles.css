@@ -98,6 +98,10 @@ a{
     
 }
 
+.contact-icon {
+    max-width: 40px;
+}
+
 .small-icon{
     height: 75px;
     border-radius: 10px;
@@ -284,6 +288,10 @@ padding: 10px !important;
 
 .tab-panel.hidden {
     display: none;
+}
+
+.tab-panel{
+    margin-top: 50px
 }
 
 .active.tab-btn {
