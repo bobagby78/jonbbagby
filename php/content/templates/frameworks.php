@@ -1,4 +1,3 @@
-<div class='row container'>
     <h4 class="panel-header">Frameworks</h4>
 
     <div class="container">
@@ -17,4 +16,3 @@
             </section>
         </div>
     </div>
-</div>

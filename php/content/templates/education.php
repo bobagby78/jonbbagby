@@ -1,4 +1,3 @@
-<div class="row container">
     <h4>Education</h4>
 
     <div class="container">
@@ -43,4 +42,3 @@
         </div>
 
     </div>
-</div>

@@ -167,8 +167,8 @@ footer{
 }
 /* content */
 #headshot, .words {
-    border-color: darkolivegreen solid 5px;
-    border-radius: 5px;
+    border: 3px solid darkolivegreen;
+    border-radius: 7px;
     min-height: 556px
 
 }
@@ -257,10 +257,6 @@ img:hover{
 
 }
 
-.words{
-    border: 3px solid darkolivegreen;
-    border-radius: 7px;
-}
 
 .btn{
     margin: 1px;
