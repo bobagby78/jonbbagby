@@ -6,7 +6,7 @@
     </p>
     <br>
     <p>
-        I taught high school Spanish teacher for thirteen years,
+        I taught high school Spanish for thirteen years,
         but my passion for the craft waned during and after the Covid-19 pandemic.
         I had always been fascinated by computers and technology, so I decided to make my hobby a career.
         My experience in teaching has given me the soft skills to work with a wide variety of people and years of

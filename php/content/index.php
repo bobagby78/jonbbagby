@@ -53,15 +53,16 @@
                         <?php include('./templates/frameworks.php') ?>
                     </div>
                     <div id="other" data-name="other" class="tab-panel other hidden">
-                        <h4 class="panel-header">Other</h4>
-                        <div class="container">
-                            buncha shit
-                        </div>
+                        <?php include('./templates/other.php') ?>
                     </div>
                 </div>
             </div>
 
+
         </div>
+    </div>
+
+    </div>
     </div>
 </body>
 
