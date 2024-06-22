@@ -1,6 +1,6 @@
     <h4 class="panel-header">Other Skills</h4>
 
-    <div class=>
+    <section class='center-section'>
         <img class='small-icon' src='../../images/skills/github.png' alt='Github icon'>
         <h4>Github</h4>
         <p>Experience level: Experience</p>
@@ -16,4 +16,4 @@
         <img class='small-icon' src='../../images/skills/androidStudio.png' alt='Android Studio icon'>
         <h4>Android Studio</h4>
         <p>Experience level: Experienced</p>
-    </div>
+    </section>

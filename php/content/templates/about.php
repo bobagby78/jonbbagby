@@ -1,7 +1,7 @@
 <h4 class="panel-header">About</h4>
 <div class="container">
     <p id="intent-statement">
-    <p class="display-5">
+    <p class="display-6">
         Hey, I'm Jon.
     </p>
     <br>
