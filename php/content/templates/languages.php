@@ -2,6 +2,10 @@
 
     <section class="center-section">
 
+        <img class='small-icon' src='../../images/skills/php.png' alt='php icon'>
+        <h4>PHP</h4>
+        <p>Experience level: Experienced</p>      
+
         <img class='small-icon' src='../../images/skills/html.png' alt='html icon'>
         <h4>HTML 5</h4>
         <p>Experience level: Experienced</p>
